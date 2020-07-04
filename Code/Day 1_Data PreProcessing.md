@@ -6,6 +6,14 @@
 As shown in the infograph we will break down data preprocessing in 6 essential steps.
 Get the dataset from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets) that is used in this example
 
+Step 1: Importing the libraries from [here](https://towardsdatascience.com/data-preprocessing-3cd01eefd438)
+Step 3: Handling the missing data from [here](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
+Step 4: Encoding categorical data from [here](https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02)
+Step 4: Encoding categorical data from [here](https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02)
+Step 5: Splitting the datasets into training sets and Test sets  from [here](https://medium.com/@contactsunny/how-to-split-your-dataset-to-train-and-test-datasets-using-scikit-learn-e7cf6eb5e0d)
+Step 6: Feature Scaling from [here](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/)
+
+
 ## Step 1: Importing the libraries
 ```Python
 import numpy as np
